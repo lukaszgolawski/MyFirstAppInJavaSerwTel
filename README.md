@@ -1,6 +1,6 @@
 This was my first a little more project in Java working with database Oracle. 
 This application is for service smartphone.
-The code is ugly and has a some bugs, because I learned Java by writing this project. I break writing this project because I started learn new technologies making work easier.
+The code is ugly and has a some bugs, because I learned Java by writing this project. When writing a project I didn't know the rules of creating a clean code. I break writing this project because I started learn new technologies making work easier.
 Program functions:
 - add new orders
 - add new customers
